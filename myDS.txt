@@ -1864,7 +1864,7 @@ CCTV-5+体育赛事,http://zqh2333.top:2222/rtp/239.93.25.79:5140
 720元大牛头,https://vd3.bdstatic.com/mda-mc7kjm87ud7vw1c8/hd/cae_h264_nowatermark/1615188038/mda-mc7kjm87ud7vw1c8.mp4?auth_key=1655032395-0-0-76d69c967dbb28da26cd146b4aca203f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2595302168&vid=3563264366474391721&abtest=all
 260元小甲鱼,https://vd4.bdstatic.com/mda-nf29yjvnrcqwwy2q/480p/h264/1654240313985806512/mda-nf29yjvnrcqwwy2q.mp4?auth_key=1655032564-0-0-747aa1c4fdd90716418995aa885348a7&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2764614902&vid=9984932099035144842&abtest=all
 1100买头羊,https://vd4.bdstatic.com/mda-kghmm8wqwjvp97gm/hd/mda-kghmm8wqwjvp97gm.mp4?auth_key=1655032152-0-0-e46ffacd02ed77fb1e67b3ad5a8fcff0&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2352305816&vid=17960476347117941562&abtest=all
-会员一区_521,#genre#
+会员一区,#genre#
 会员一区01,https://askzycdn.com/20240507/cwVnzlXp/index.m3u8
 会员一区02,https://askzycdn.com/20240507/WkdsFPPT/index.m3u8
 会员一区03,https://askzycdn.com/20240507/mhZIIFXJ/index.m3u8
@@ -1915,7 +1915,7 @@ CCTV-5+体育赛事,http://zqh2333.top:2222/rtp/239.93.25.79:5140
 会员一区48,https://askzycdn.com/20240421/mxRXP997/index.m3u8
 会员一区49,https://askzycdn.com/20240421/vfhs1N2l/index.m3u8
 会员一区50,https://askzycdn.com/20240421/mxRXP997/index.m3u8
-会员二区_522,#genre#
+会员二区,#genre#
 会员二区01,https://lsbbf2.com/20240426/Ivi0ZqOn/index.m3u8
 会员二区02,https://lsbbf2.com/20240426/HpX2b4Hg/index.m3u8
 会员二区03,https://lsbbf2.com/20240426/bYm7qJ8E/index.m3u8
@@ -1966,7 +1966,7 @@ CCTV-5+体育赛事,http://zqh2333.top:2222/rtp/239.93.25.79:5140
 会员二区48,https://lsbbf2.com/20240426/f818QZL2/index.m3u8
 会员二区49,https://lsbbf2.com/20240426/IAk9UWED/index.m3u8
 会员二区50,https://lsbbf2.com/20240426/7jcwaIJZ/index.m3u8
-会员三区_523,#genre#
+会员三区,#genre#
 会员三区01,https://vip2.slbfsl.com/20230408/o8367L6i/index.m3u8
 会员三区02,https://vip2.slbfsl.com/20230408/Bmy2ghfL/index.m3u8
 会员三区03,https://vip2.slbfsl.com/20230408/7eE7fYzx/index.m3u8
@@ -2017,7 +2017,7 @@ CCTV-5+体育赛事,http://zqh2333.top:2222/rtp/239.93.25.79:5140
 会员三区48,https://vip2.slbfsl.com/20230321/GT9vqzQH/index.m3u8
 会员三区49,https://vip2.slbfsl.com/20230321/JbVR0XUw/index.m3u8
 会员三区50,https://vip2.slbfsl.com/20230321/AG7BXBKS/index.m3u8
-会员四区_524,#genre#
+会员四区,#genre#
 会员四区01,https://vip2.slbfsl.com/20230325/YYVHnbzv/index.m3u8
 会员四区02,https://vip2.slbfsl.com/20230325/oy8w8rV7/index.m3u8
 会员四区03,https://vip2.slbfsl.com/20230325/mNta9rx3/index.m3u8
@@ -2068,7 +2068,7 @@ CCTV-5+体育赛事,http://zqh2333.top:2222/rtp/239.93.25.79:5140
 会员四区48,https://vip2.slbfsl.com/20230421/nr8qxHX8/index.m3u8
 会员四区49,https://vip2.slbfsl.com/20230422/CCNb8yu4/index.m3u8
 会员四区50,https://vip2.slbfsl.com/20230422/z7ur0oiJ/index.m3u8
-会员五区_525,#genre#
+会员五区,#genre#
 会员五区01,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 会员五区02,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 会员五区03,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
@@ -2118,7 +2118,7 @@ CCTV-5+体育赛事,http://zqh2333.top:2222/rtp/239.93.25.79:5140
 会员五区48,https://vip4.ddyunbo.com/20191115/nz0OLAD7/index.m3u8
 会员五区49,https://vip4.ddyunbo.com/20191205/0oLr2jlQ/index.m3u8
 会员五区50,https://vip4.ddyunbo.com/20191111/YQ1Jvlo7/index.m3u8
-会员六区_526,#genre#
+会员六区,#genre#
 会员六区01,https://10j99.cdnedge.live/file/avple-images/hls/6171a981f8003d17dfd1a739/playlist.m3u8
 会员六区02,https://10j99.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 会员六区03,https://10j99.cdnedge.live/file/avple-images/hls/61771dadad20e84f6e46a0ab/playlist.m3u8
@@ -2169,7 +2169,7 @@ CCTV-5+体育赛事,http://zqh2333.top:2222/rtp/239.93.25.79:5140
 会员六区48,https://10j99.cdnedge.live/file/avple-images/hls/6202e33e152c48301ba2ac74/playlist.m3u8
 会员六区49,https://10j99.cdnedge.live/file/avple-images/hls/62059f8ed69d37216eb636d9/playlist.m3u8
 会员六区50,https://10j99.cdnedge.live/file/avple-images/hls/620b87fdd0ea7c7d841b2f33/playlist.m3u8
-会员七区_527,#genre#
+会员七区,#genre#
 会员七区01,https://d1.xia12345.com/video/202203/62449a455f039a1f0102ae1b/hd.mp4
 会员七区02,https://d1.xia12345.com/video/202203/62449a455f039a1f0102ae24/hd.mp4
 会员七区03,https://d1.xia12345.com/video/202111/618bf17f31d40338f9441f28/hd.mp4
@@ -2220,7 +2220,7 @@ CCTV-5+体育赛事,http://zqh2333.top:2222/rtp/239.93.25.79:5140
 会员七区48,https://d1.xia12345.com/video/202111/618bf17f31d40338f9441f89/hd.mp4
 会员七区49,https://d1.xia12345.com/video/202111/618bf17f31d40338f9441f88/hd.mp4
 会员七区50,https://d1.xia12345.com/video/202111/618bf17f31d40338f9441f87/hd.mp4
-会员八区_528,#genre#
+会员八区,#genre#
 会员八区01,https://1xp60.cdnedge.live/file/avple-images/hls/618626d126bdd144b598cbd8/playlist.m3u8
 会员八区02,https://1xp60.cdnedge.live/file/avple-images/hls/618b9a8552fe307992e91593/playlist.m3u8
 会员八区03,https://1xp60.cdnedge.live/file/avple-images/hls/618d1ae5608a75437203be00/playlist.m3u8
@@ -2271,7 +2271,7 @@ CCTV-5+体育赛事,http://zqh2333.top:2222/rtp/239.93.25.79:5140
 会员八区48,https://1xp60.cdnedge.live/file/avple-images/hls/61ecbf5a7580a3314beba2ab/playlist.m3u8
 会员八区49,https://1xp60.cdnedge.live/file/avple-images/hls/61d0c3ad8ec5397ce0e2cde7/playlist.m3u8
 会员八区50,https://1xp60.cdnedge.live/file/avple-images/hls/615740419dda0e2db22a7f0f/playlist.m3u8
-会员九区_529,#genre#
+会员九区,#genre#
 Music,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
 
 Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
@@ -2302,4 +2302,5 @@ PORNBOX:06,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159956
 PORNBOX:07,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159957
 PORNBOX:08,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159958
 PORNBOX:09,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159959
+
 PORNBOX:10,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159960
